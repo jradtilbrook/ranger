@@ -1,6 +1,19 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/ranger/compare/v0.2.4...main)
+## [Unreleased](https://github.com/laravel/ranger/compare/v0.2.5...main)
+
+## [v0.2.5](https://github.com/laravel/ranger/compare/v0.2.4...v0.2.5) - 2026-05-19
+
+### What's Changed
+
+* update `ClassResult` to `ClassLikeResult` by [@levikl](https://github.com/levikl) in https://github.com/laravel/ranger/pull/34
+* Pin GitHub Actions to commit SHAs and add Dependabot config by [@joetannenbaum](https://github.com/joetannenbaum) in https://github.com/laravel/ranger/pull/36
+
+### New Contributors
+
+* [@levikl](https://github.com/levikl) made their first contribution in https://github.com/laravel/ranger/pull/34
+
+**Full Changelog**: https://github.com/laravel/ranger/compare/v0.2.4...v0.2.5
 
 ## [v0.2.4](https://github.com/laravel/ranger/compare/v0.2.3...v0.2.4) - 2026-05-12
 
